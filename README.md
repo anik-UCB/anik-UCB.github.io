@@ -1,6 +1,15 @@
 # Aniruddha Dutta — GitHub Pages personal site
 
-Portfolio page
+Static, responsive one-page personal website inspired by the layout of https://sibat119.github.io/ and populated from the supplied resume.
+
+## Publish on GitHub Pages
+
+1. Create a GitHub repository. For the simplest personal URL, name it `<your-github-username>.github.io`.
+2. Upload everything in this folder to the repository root.
+3. In GitHub, open **Settings → Pages**.
+4. Under **Build and deployment**, choose **Deploy from a branch**.
+5. Select the `main` branch and `/ (root)`, then save.
+6. Your site will appear at `https://<your-github-username>.github.io/`.
 
 ## Easy customizations
 
