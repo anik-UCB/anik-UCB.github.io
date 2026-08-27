@@ -1,6 +1,6 @@
 const menuButton = document.querySelector('.menu-button');
 const sidebar = document.querySelector('.sidebar');
-const navLinks = [...document.querySelectorAll('.nav-links a')];
+const navLinks = [...document.querySelectorAll('.topnav a')];
 const sections = [...document.querySelectorAll('main section[id]')];
 
 document.getElementById('year').textContent = new Date().getFullYear();
